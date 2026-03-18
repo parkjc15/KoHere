@@ -1,5 +1,5 @@
 name: kohere
-description: "A new Flutter project."
+description: "☕ KoHere - 당신의 매일 기능적인 커피 여정을 담는 손안의 매킨토시"
 publish_to: "none"
 
 version: 1.0.0+1
@@ -10,21 +10,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.8
   flutter_riverpod: ^3.2.1
-  riverpod_annotation: ^4.0.2
-  dio: ^5.9.2
-  geolocator: ^14.0.2
   hive_ce: ^2.1.2
   hive_ce_flutter: ^2.1.1
   path_provider: ^2.1.5
   google_fonts: ^8.0.2
   uuid: ^4.5.3
-  qr_flutter: ^4.1.0
   image_picker: ^1.2.1
   state_notifier: ^1.0.0
-  share_plus: ^12.0.1
-  screenshot: ^3.0.0
   intl: ^0.20.2
   firebase_core: ^4.5.0
   firebase_auth: ^6.2.0
@@ -63,11 +56,3 @@ flutter_native_splash:
   fullscreen: true
   android: true
   ios: true
-dependency_overrides:
-  _fe_analyzer_shared: 97.0.0
-  analyzer: 11.0.0
-  matcher: 0.12.19
-  meta: 1.18.1
-  test: 1.30.0
-  test_api: 0.7.10
-  test_core: 0.6.16
