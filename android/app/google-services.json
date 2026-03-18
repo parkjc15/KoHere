@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408263536531",
+    "project_id": "kohere-98e63",
+    "storage_bucket": "kohere-98e63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408263536531:android:7f428b1608348583624266",
+        "android_client_info": {
+          "package_name": "com.example.kohere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCBtMWoAHSPDX2aQCQ_IaCVVM4-bzOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
